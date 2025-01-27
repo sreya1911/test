@@ -1,2 +1,4 @@
 A sample file for git usage.
 This is after first commit.
+
+This is added in branch dev1.
